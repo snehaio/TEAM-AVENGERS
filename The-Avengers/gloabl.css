@@ -1,0 +1,83 @@
+
+
+/* Reset some default styles */
+html, body, h1, h2, h3, p, div, img, button, textarea {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Global styles */
+  .text-primary-black {
+    color: #333; /* Change to your preferred text color */
+  }
+  
+  /* Header styles */
+  #NavBar {
+    background-color: #fff; /* Change to your preferred background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  #NavBar button {
+    margin-right: 20px;
+    color: #555; /* Change to your preferred text color */
+    font-size: 18px;
+  }
+  
+  #NavBar textarea {
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff; /* Change to your preferred text color */
+  }
+  
+  /* Main content styles */
+  .relative {
+    position: relative;
+  }
+  
+  /* Add more specific styles for your sections, buttons, images, etc. */
+  
+  /* Example: Button styles */
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    background-color: #ff6b6b; /* Change to your preferred button color */
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  /* Example: Image styles */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Example: Form styles */
+  textarea {
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    font-size: 18px;
+    color: #333; /* Change to your preferred text color */
+  }
+  
+  /* ... Add more styles as needed */
+  
+  /* Responsive styles */
+  @media only screen and (max-width: 768px) {
+    /* Add styles for smaller screens */
+  }
+  
+  /* ... Add more responsive styles as needed */
+  

@@ -1,0 +1,1097 @@
+.homepage-child {
+    position: absolute;
+    top: 867px;
+    left: 623px;
+    border-radius: var(--br-11xl);
+    width: 715px;
+    height: 335px;
+  }
+  .upload-and-access {
+    position: relative;
+    font-size: var(--p1-size);
+    line-height: 173.1%;
+    font-weight: 500;
+    font-family: var(--h3);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .boldboldarrow-right-3 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  .upload-and-access-documents-parent {
+    cursor: pointer;
+    border: 0;
+    padding: 16px 32px;
+    background-color: var(--color-lightpink);
+    position: absolute;
+    top: 1261px;
+    left: 747px;
+    border-radius: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .homepage-inner,
+  .homepage-item,
+  .rectangle-div {
+    position: absolute;
+    top: 1872px;
+    left: 370px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    box-shadow: 0 24px 30px -14px rgba(15, 151, 181, 0.14);
+    width: 372px;
+    height: 304px;
+    display: none;
+  }
+  .homepage-inner,
+  .rectangle-div {
+    left: 1178px;
+  }
+  .rectangle-div {
+    top: 2208px;
+    height: 308px;
+  }
+  .our-services {
+    margin: 0;
+    position: absolute;
+    top: 1528px;
+    left: 344px;
+    font-size: var(--font-size-29xl);
+    line-height: 112.5%;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .ai-chat-bot,
+  .chat-with-doctor,
+  .electronic-health-records {
+    position: absolute;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .chat-with-doctor {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 2020px;
+    left: 448px;
+    font-family: var(--h3);
+    color: var(--primary-black);
+    text-align: center;
+    display: inline-block;
+  }
+  .ai-chat-bot,
+  .electronic-health-records {
+    top: 2012px;
+  }
+  .electronic-health-records {
+    left: 875px;
+    text-align: center;
+    display: inline-block;
+    width: 358px;
+  }
+  .ai-chat-bot {
+    left: 1505px;
+  }
+  .rectangle-section {
+    position: absolute;
+    top: 4005px;
+    left: 0;
+    background-color: var(--color-mistyrose);
+    width: 1920px;
+    height: 1386px;
+  }
+  .whatsapp-image-2023-10-06-at-1 {
+    position: absolute;
+    top: 1684px;
+    left: 1341px;
+    width: 405px;
+    height: 294px;
+    object-fit: cover;
+  }
+  .rectangle-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: rgba(217, 217, 217, 0.32);
+    position: absolute;
+    top: 1364px;
+    left: 529px;
+    width: 862px;
+    height: 76px;
+  }
+  .choose-doc-type {
+    position: absolute;
+    top: 1384px;
+    left: 561px;
+    font-size: var(--p1-size);
+    line-height: 173.1%;
+    font-weight: 100;
+    color: var(--color-black);
+  }
+  .image-4-icon,
+  .image-5-icon {
+    position: absolute;
+    top: 1684px;
+    left: 344px;
+    width: 425px;
+    height: 294px;
+    object-fit: cover;
+  }
+  .image-5-icon {
+    left: 834px;
+    width: 440px;
+  }
+  .make-an-appointment,
+  .select-best-time {
+    position: absolute;
+    top: 947px;
+    left: 729px;
+    font-weight: 600;
+    color: var(--black-9);
+    display: inline-block;
+    width: 209px;
+    height: 35px;
+  }
+  .select-best-time {
+    top: 988px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--black-8);
+    width: 194px;
+    height: 29px;
+  }
+  .bulkbulkcalendar-icon {
+    position: absolute;
+    top: 947px;
+    left: 681px;
+    width: 34px;
+    height: 43px;
+  }
+  .find-the-best,
+  .find-the-best1 {
+    position: absolute;
+    top: 938px;
+    left: 1022px;
+    font-weight: 600;
+    color: var(--black-9);
+    display: inline-block;
+    width: 186px;
+    height: 35px;
+  }
+  .find-the-best1 {
+    top: 979px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--black-8);
+    width: 255px;
+    height: 29px;
+  }
+  .bulkbulk2-user-icon {
+    position: absolute;
+    top: 938px;
+    left: 974px;
+    width: 35px;
+    height: 43px;
+  }
+  .consult-ai-doctor,
+  .take-care-of {
+    position: absolute;
+    top: 1062px;
+    left: 729px;
+    font-weight: 600;
+    color: var(--black-9);
+    display: inline-block;
+    width: 162px;
+    height: 35px;
+  }
+  .take-care-of {
+    top: 1093px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--black-8);
+    width: 191px;
+    height: 30px;
+  }
+  .bulkbulklocation-icon {
+    position: absolute;
+    top: 1062px;
+    left: 681px;
+    width: 34px;
+    height: 43px;
+  }
+  .ask-questions-any,
+  .single-platform-for {
+    position: absolute;
+    top: 1053px;
+    left: 1022px;
+    font-weight: 600;
+    color: var(--black-9);
+    display: inline-block;
+    width: 311px;
+    height: 35px;
+  }
+  .ask-questions-any {
+    top: 1093px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--black-8);
+    width: 188px;
+    height: 30px;
+  }
+  .bulkbulkmessage-icon {
+    position: absolute;
+    top: 1053px;
+    left: 974px;
+    width: 35px;
+    height: 43px;
+  }
+  .explore {
+    position: absolute;
+    top: 0;
+    left: 354px;
+    font-weight: 600;
+  }
+  .about-us,
+  .contact,
+  .faqs,
+  .feature {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .about-us,
+  .contact,
+  .faqs {
+    top: 47px;
+  }
+  .contact,
+  .faqs {
+    top: 94px;
+  }
+  .contact {
+    top: 141px;
+  }
+  .feature-parent {
+    position: absolute;
+    top: 72px;
+    left: 354px;
+    width: 81px;
+    height: 168px;
+    font-size: var(--font-size-lg);
+    color: var(--black-7);
+  }
+  .accesibility,
+  .terms-of-services {
+    position: absolute;
+    top: 0;
+    left: 143px;
+    font-weight: 500;
+  }
+  .accesibility {
+    left: 317px;
+  }
+  .privacy-policy-parent {
+    position: absolute;
+    top: 312px;
+    left: 771px;
+    width: 409px;
+    height: 24px;
+    font-size: var(--font-size-base);
+    color: var(--black-5);
+  }
+  .anyhelpdesk123gmailcom {
+    position: absolute;
+    top: 119px;
+    left: 308px;
+    font-weight: 500;
+  }
+  .privacy-policy-group {
+    position: absolute;
+    top: 72px;
+    left: 575px;
+    width: 569px;
+    height: 168px;
+    font-size: var(--font-size-lg);
+    color: var(--black-7);
+  }
+  .legal {
+    position: absolute;
+    top: 0;
+    left: 575px;
+    font-weight: 600;
+  }
+  .group-child,
+  .group-item {
+    position: absolute;
+    top: 72px;
+    left: 0;
+    width: 188px;
+    height: 50px;
+  }
+  .group-item {
+    top: 279.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--black-2);
+    box-sizing: border-box;
+    width: 1181px;
+    height: 1px;
+  }
+  .explore-parent {
+    position: absolute;
+    top: 4454px;
+    left: 338px;
+    width: 1180px;
+    height: 336px;
+    text-align: left;
+    font-size: var(--h3-size);
+    color: var(--primary-black);
+    font-family: var(--h3);
+  }
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    background-color: var(--color-peru);
+    width: 574px;
+    height: 277px;
+  }
+  .ive-never-come {
+    position: absolute;
+    top: 102px;
+    left: 150px;
+    line-height: 146.1%;
+    display: inline-block;
+    width: 386px;
+  }
+  .khushi-malik {
+    position: absolute;
+    top: 32px;
+    left: 156px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .ellipse-icon,
+  .group-icon {
+    position: absolute;
+    top: 71px;
+    left: 156px;
+    width: 136px;
+    height: 24px;
+  }
+  .ellipse-icon {
+    top: 32px;
+    left: 32px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .group-child1 {
+    position: absolute;
+    top: 0;
+    left: 606px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-peru);
+    width: 574px;
+    height: 277px;
+  }
+  .this-website-goes {
+    position: absolute;
+    top: 102px;
+    left: 750px;
+    line-height: 146.1%;
+    display: inline-block;
+    width: 386px;
+  }
+  .kashish-sharma {
+    position: absolute;
+    top: 32px;
+    left: 762px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .group-child2,
+  .group-child3 {
+    position: absolute;
+    top: 71px;
+    left: 762px;
+    width: 136px;
+    height: 24px;
+  }
+  .group-child3 {
+    top: 32px;
+    left: 638px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 4054px;
+    left: 322px;
+    width: 1180px;
+    height: 277px;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--black-8);
+    font-family: var(--h3);
+  }
+  .contact-no,
+  .div,
+  .shewell-hub {
+    position: absolute;
+    top: 4454px;
+    left: 1222px;
+    font-size: var(--h3-size);
+    font-weight: 600;
+  }
+  .div,
+  .shewell-hub {
+    top: 4506px;
+    font-size: var(--font-size-lg);
+    font-weight: 500;
+    color: var(--black-7);
+  }
+  .shewell-hub {
+    font-weight: 600;
+    font-size: var(--h3-size);
+    top: 4454px;
+    left: 347px;
+    color: var(--color-black);
+  }
+  .e-mail,
+  .home,
+  .shewell-hub {
+    border: 0;
+    background-color: transparent;
+    font-family: var(--h3);
+    text-align: left;
+  }
+  .e-mail {
+    cursor: pointer;
+    padding: 0;
+    position: absolute;
+    top: 4595px;
+    left: 1223px;
+    font-size: var(--h3-size);
+    font-weight: 600;
+    color: var(--primary-black);
+    display: inline-block;
+  }
+  .home {
+    top: 32px;
+    left: 258px;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+  }
+  .contact-us,
+  .home,
+  .our-services1 {
+    cursor: pointer;
+    padding: 0;
+    position: absolute;
+    color: var(--black-7);
+    display: inline-block;
+  }
+  .our-services1 {
+    border: 0;
+    background-color: transparent;
+    top: 32px;
+    left: 338px;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    font-family: var(--h3);
+    text-align: left;
+  }
+  .contact-us {
+    top: 31px;
+    left: 553px;
+  }
+  .about-us1,
+  .chat-with-ai,
+  .contact-us {
+    border: 0;
+    background-color: transparent;
+    font-weight: 500;
+    font-family: var(--h3);
+    font-size: var(--font-size-base);
+    text-align: left;
+  }
+  .about-us1 {
+    cursor: pointer;
+    padding: 0;
+    position: absolute;
+    top: 32px;
+    left: 460px;
+    color: var(--black-7);
+    display: inline-block;
+  }
+  .chat-with-ai {
+    position: relative;
+    color: var(--color-white);
+  }
+  .ai {
+    cursor: pointer;
+    border: 0;
+    padding: 12px 30px;
+    background-color: var(--color-lightpink);
+    position: absolute;
+    top: 20px;
+    left: 1021px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .shewell-hub1 {
+    position: absolute;
+    top: 34px;
+    left: 68px;
+    font-weight: 800;
+    display: inline-block;
+    width: 169px;
+    height: 43px;
+  }
+  .navbar {
+    position: absolute;
+    top: 0;
+    left: 314px;
+    width: 1221px;
+    height: 95px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--h3);
+  }
+  .navigating-wellness-with,
+  .our-destination-is {
+    position: absolute;
+    left: 53px;
+    display: inline-block;
+  }
+  .navigating-wellness-with {
+    margin: 0;
+    top: 12px;
+    font-size: inherit;
+    line-height: 116%;
+    font-weight: 700;
+    font-family: inherit;
+    width: 1136px;
+  }
+  .our-destination-is {
+    top: 194px;
+    font-size: var(--p1-size);
+    line-height: 173.1%;
+    color: var(--black-8);
+    width: 509px;
+  }
+  .image-3 {
+    position: absolute;
+    top: 278px;
+    left: 53px;
+    width: 1341px;
+    height: 377px;
+    background-image: url(./public/image3@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .frame-div,
+  .frontpage {
+    position: absolute;
+    overflow: hidden;
+  }
+  .frontpage {
+    top: 154px;
+    left: 291px;
+    width: 1413px;
+    height: 713px;
+    font-size: var(--h1-size);
+  }
+  .frame-div {
+    top: 1505px;
+    left: 235px;
+    width: 1558px;
+    height: 594px;
+    display: none;
+  }
+  .providing-you-best {
+    position: absolute;
+    top: 2792px;
+    left: 1052px;
+    line-height: 146.1%;
+    color: var(--black-8);
+    display: none;
+    width: 358px;
+  }
+  .wide-approach1 {
+    margin: 0;
+  }
+  .wide-approach {
+    position: absolute;
+    top: 2752px;
+    left: 1052px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    display: none;
+  }
+  .homepage-child1 {
+    position: absolute;
+    top: 3917px;
+    left: 1347px;
+    width: 132px;
+    height: 60px;
+    display: none;
+  }
+  .doctors-child {
+    position: absolute;
+    top: 237px;
+    left: 57px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    width: 372px;
+    height: 327px;
+  }
+  .doctors-item {
+    position: absolute;
+    top: 269px;
+    left: 89px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .dr-rahul-saxena {
+    position: absolute;
+    top: 393px;
+    left: 89px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .happy-patients,
+  .kheterpal-hospitalnew-delhi,
+  .leading-diagnostic-doctor {
+    position: absolute;
+    top: 432px;
+    left: 89px;
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .happy-patients,
+  .kheterpal-hospitalnew-delhi {
+    top: 514px;
+  }
+  .happy-patients {
+    top: 482px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .doctors-inner {
+    position: absolute;
+    top: 596px;
+    left: 57px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    width: 372px;
+    height: 327px;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 628px;
+    left: 89px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .dr-manisha-rao,
+  .happy-patients1,
+  .mbbs {
+    position: absolute;
+    left: 89px;
+    line-height: 112.5%;
+  }
+  .dr-manisha-rao {
+    top: 752px;
+    font-size: var(--h3-size);
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .happy-patients1,
+  .mbbs {
+    top: 791px;
+    font-weight: 500;
+  }
+  .happy-patients1 {
+    top: 841px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .doctors-child1 {
+    position: absolute;
+    top: 237px;
+    left: 461px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    box-shadow: 0 35px 55px -12px rgba(170, 71, 15, 0.26);
+    width: 372px;
+    height: 327px;
+  }
+  .doctors-child2 {
+    position: absolute;
+    top: 269px;
+    left: 493px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .dr-anshika-gandhi {
+    position: absolute;
+    top: 393px;
+    left: 493px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .consultant-gynecologist,
+  .happy-patients2,
+  .mgs-hospitalnew-delhi {
+    position: absolute;
+    top: 432px;
+    left: 493px;
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .happy-patients2,
+  .mgs-hospitalnew-delhi {
+    top: 514px;
+  }
+  .happy-patients2 {
+    top: 482px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .doctors-child3 {
+    position: absolute;
+    top: 596px;
+    left: 461px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    width: 372px;
+    height: 327px;
+  }
+  .doctors-child4 {
+    position: absolute;
+    top: 628px;
+    left: 493px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .consultant-gynecologist1,
+  .dr-dev-das {
+    position: absolute;
+    left: 493px;
+    line-height: 112.5%;
+  }
+  .dr-dev-das {
+    top: 752px;
+    font-size: var(--h3-size);
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .consultant-gynecologist1 {
+    top: 791px;
+    font-weight: 500;
+  }
+  .dy-patil-hospitalgujarat,
+  .happy-patients3,
+  .mk-gandhi-hospitalmumbai {
+    position: absolute;
+    top: 873px;
+    left: 493px;
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .happy-patients3,
+  .mk-gandhi-hospitalmumbai {
+    left: 89px;
+  }
+  .happy-patients3 {
+    top: 841px;
+    left: 493px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .doctors-child5 {
+    position: absolute;
+    top: 237px;
+    left: 865px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-white);
+    width: 372px;
+    height: 327px;
+  }
+  .doctors-child6 {
+    position: absolute;
+    top: 269px;
+    left: 897px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .dr-sonam-bajwa {
+    position: absolute;
+    top: 393px;
+    left: 897px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .happy-patients4,
+  .rrmr-hospital,
+  .specialist {
+    position: absolute;
+    top: 432px;
+    left: 897px;
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .happy-patients4,
+  .rrmr-hospital {
+    top: 514px;
+  }
+  .happy-patients4 {
+    top: 482px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .doctors-child7,
+  .doctors-child8 {
+    position: absolute;
+    top: 596px;
+    left: 865px;
+    border-radius: var(--br-11xl);
+    width: 372px;
+    height: 342.5px;
+  }
+  .doctors-child8 {
+    top: 628px;
+    left: 897px;
+    border-radius: var(--br-43xl);
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .dr-divjeet-singh {
+    position: absolute;
+    top: 752px;
+    left: 897px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+    color: var(--primary-black);
+  }
+  .happy-patients5,
+  .leading-diagnostic-doctor1,
+  .new-medical-hospital {
+    position: absolute;
+    top: 791px;
+    left: 897px;
+    line-height: 112.5%;
+    font-weight: 500;
+  }
+  .happy-patients5,
+  .new-medical-hospital {
+    top: 873px;
+  }
+  .happy-patients5 {
+    top: 841px;
+    font-size: var(--font-size-lg);
+    color: var(--f97b5);
+  }
+  .our-qualified-doctors {
+    position: absolute;
+    top: 94px;
+    left: 66px;
+    font-size: var(--font-size-29xl);
+    line-height: 112.5%;
+    color: var(--primary-black);
+    text-align: center;
+  }
+  .doctors-child9,
+  .line-div {
+    position: absolute;
+    top: 750.5px;
+    left: 417.5px;
+    border-right: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1px;
+    height: 199px;
+  }
+  .doctors-child9 {
+    left: 821.5px;
+  }
+  .doctors,
+  .vector-icon {
+    position: absolute;
+    overflow: hidden;
+  }
+  .doctors {
+    top: 2906px;
+    left: 265px;
+    width: 1321px;
+    height: 1016px;
+    color: var(--black-7);
+  }
+  .vector-icon {
+    height: 11.82%;
+    width: 8.81%;
+    top: 63.67%;
+    right: 27.14%;
+    bottom: 24.51%;
+    left: 64.05%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .ultra-secure-login-free,
+  .ultra-secure-login-free1 {
+    position: absolute;
+    line-height: 146.1%;
+    color: var(--black-8);
+  }
+  .ultra-secure-login-free {
+    top: 665px;
+    left: 84px;
+    display: inline-block;
+    width: 358px;
+  }
+  .ultra-secure-login-free1 {
+    top: 682px;
+    left: 653px;
+  }
+  .security,
+  .wide-approach2 {
+    position: absolute;
+    top: 621px;
+    left: 84px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+  }
+  .wide-approach2 {
+    top: 645px;
+    left: 709px;
+  }
+  .whyus-child {
+    position: absolute;
+    top: 523px;
+    left: 76px;
+    width: 97px;
+    height: 81px;
+  }
+  .decision-making-and-treatment {
+    position: absolute;
+    top: 350px;
+    left: 718px;
+    line-height: 146.1%;
+    color: var(--black-8);
+    display: inline-block;
+    width: 308px;
+  }
+  .medical-support {
+    position: absolute;
+    top: 303px;
+    left: 718px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+  }
+  .whyus-item {
+    position: absolute;
+    top: 202px;
+    left: 724px;
+    width: 94px;
+    height: 81px;
+  }
+  .empower-women-from {
+    position: absolute;
+    top: 344px;
+    left: 84px;
+    line-height: 146.1%;
+    color: var(--black-8);
+    display: inline-block;
+    width: 308px;
+  }
+  .patient-convenience {
+    position: absolute;
+    top: 297px;
+    left: 84px;
+    font-size: var(--h3-size);
+    line-height: 112.5%;
+    font-weight: 600;
+  }
+  .healthiconsdoctor-male-outlin {
+    position: absolute;
+    top: 199px;
+    left: 84px;
+    width: 81px;
+    height: 74px;
+    overflow: hidden;
+  }
+  .why-us,
+  .whyus {
+    position: absolute;
+  }
+  .why-us {
+    top: 62px;
+    left: 75px;
+    font-size: var(--font-size-29xl);
+    line-height: 112.5%;
+    display: inline-block;
+    width: 334px;
+    height: 101px;
+  }
+  .whyus {
+    top: 2073px;
+    left: 285px;
+    width: 1135px;
+    height: 812px;
+    overflow: hidden;
+  }
+  .homepage {
+    position: relative;
+    background-color: var(--color-mistyrose);
+    width: 100%;
+    height: 5951px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--primary-black);
+    font-family: var(--h3);
+  }
+  
